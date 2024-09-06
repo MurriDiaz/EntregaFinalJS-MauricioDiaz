@@ -57,7 +57,7 @@ function addToCart(event) {
             localStorage.setItem('carrito', JSON.stringify(carrito));
 
             // Mostrar mensaje o actualizar el ícono del carrito
-            alert(`Agregaste ${productoSeleccionado.nombre} al carrito.`);
+           
         })
         .catch(error => console.error('Error al agregar producto al carrito:', error));
 }
