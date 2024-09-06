@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nombre": "Short De Colombia",
+        "precio": 100,
+        "imagen": "./Multimedia/short/3short.jfif",
+        "descripcion": "Seleccion Cafetera"
+    },
+    {
+        "id": 2,
+        "nombre": "Camiseta de Italia",
+        "precio": 150,
+        "imagen": "./Multimedia/remeras/camiseta1.webp",
+        "descripcion": "Azzurra S , M , L"
+    },
+    {
+        "id": 3,
+        "nombre": "Camiseta Bayer Munich",
+        "precio": 200,
+        "imagen": "./Multimedia/remeras/camiseta2.jfif",
+        "descripcion": "Roja S , M."
+    },
+    {
+        "id": 4,
+        "nombre": "Short Real Madrid",
+        "precio": 250,
+        "imagen": "./Multimedia/short/2short.webp",
+        "descripcion": "Madrid M"
+    },
+    {
+        "id": 5,
+        "nombre": "Short italia",
+        "precio": 300,
+        "imagen": "./Multimedia/short/5short.jfif",
+        "descripcion": "Seleccion Azzurra S , M , L"
+    },
+    {
+        "id": 6,
+        "nombre": "Short Argentina",
+        "precio": 350,
+        "imagen": "./Multimedia/short/4short.jpg",
+        "descripcion": "Comfortable S, M, L"
+    }
+]
